@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Cynthia Onuoha
 
-<!--
-**CyndyMakaz/CyndyMakaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Data Analytics Professional
 
-Here are some ideas to get you started:
+📍 Abuja, Nigeria  
+📧 cynthiaonuoha61@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/cynthia-onuoha-makaz) | [GitHub](https://github.com/CyndyMakaz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|:---|:---|
+| **Data Analysis** | Data cleaning, verification, reporting, summaries |
+| **Excel** | Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, COUNTIFS, Dashboards |
+| **SQL** | SELECT, JOINs, GROUP BY, HAVING, Aggregate Functions |
+| **Power BI** | Interactive Dashboards, Data Visualizations, DAX Basics |
+| **Tools** | Microsoft Excel, Google Sheets, Google Drive, Trello |
+
+---
+
+## 📂 Portfolio Projects
+
+| # | Project | Description | Skills |
+|:---|:---|:---|:---|
+| 1 | [🏥 Clinic Patient Data Cleaning](https://github.com/CyndyMakaz/clinic-patient-data-cleaning) | Cleaned 50 patient records with 8+ data quality issues | Data Cleaning, Excel |
+| 2 | [🚗 Car Sales Analysis](https://github.com/CyndyMakaz/car-sales-analysis) | Analyzed 500+ car listings with interactive dashboard | Excel Analytics, Dashboard |
+| 3 | [📊 Excel Analytics Projects](https://github.com/CyndyMakaz/excel-analytics-projects) | Sales Performance & Oil & Gas analysis | Excel Analytics |
+
+---
+
+## 📜 Certifications
+
+- **Google Data Analytics Professional Certificate** (Nov 2023)
+- Data Entry Tools and Techniques – Alison (Mar 2025)
+- Customer Services – Alison (Mar 2025)
+
+---
+
+> 💡 *"Turning raw data into actionable insights, one analysis at a time."*
